@@ -30,6 +30,8 @@
   - [如何打造一个让人愉快的框架](#如何打造一个让人愉快的框架王巍-onevcat)
   - [iOS 组件化开发（四）：fastlane实现pod自动化](#如何打造一个让人愉快的框架王巍-onevcat)
   - [一行命令发布 Pod 框架](#一行命令发布-pod-框架ripperhe)
+- 适配
+  - [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](#全新-iPhone-12-发布，再谈-iPhone-屏幕尺寸)
 
 ## 正文
 
@@ -58,3 +60,9 @@
 #### [一行命令发布 Pod 框架](https://ripperhe.com/2017/03/30/fastlane-pod/)：ripperhe
 
 如何自动化 pod 发布流程。
+
+### 适配
+
+#### [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](https://sspai.com/post/63214)：北极熊不不
+
+详细列举了 iPhone 12 系列的屏幕变化，同时还包括了一些细节、以及适配相关的内容。例如该篇文章中还谈到了状态栏高度的改变。
