@@ -26,6 +26,7 @@
   - [Swift Package Manager 使用](#swift-package-manager-使用撬动代码的小秋)
 - 开源
   - [同时支持CocoaPods、Carthage、SPM的开源类库](#同时支持cocoapodscarthagespm的开源类库alexiscn)
+  - [Namecheap](#Namecheap)
 - 自动化
   - [如何打造一个让人愉快的框架](#如何打造一个让人愉快的框架王巍-onevcat)
   - [iOS 组件化开发（四）：fastlane实现pod自动化](#如何打造一个让人愉快的框架王巍-onevcat)
@@ -48,6 +49,10 @@
 #### [同时支持CocoaPods、Carthage、SPM的开源类库](https://shuifeng.me/2020/03/02/create-ios-frameworks.html)：alexiscn
 
 文章从创建项目开始，讲述了如何令一个框架同时支持 CocoaPods、Carthage、SPM 三种代码管理工具。
+
+#### [Namecheap](https://www.namecheap.com/logo-maker/app/)
+
+免费的设计生成 logo 的网站。可以为开源库制作 logo （我所有的开源项目的 logo 都是用这个网站制作的。）
 
 ### 自动化
 
@@ -73,4 +78,4 @@
 
 #### [Rxswift教程](https://www.bilibili.com/video/BV1Hb411b7LD)：lzc128
 
-RxSwift 的视频教程，发布在 B站。
+RxSwift 的**视频**教程，发布在 B站。
