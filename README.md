@@ -26,18 +26,18 @@
   - [Swift Package Manager 使用](#swift-package-manager-使用撬动代码的小秋)
 - 开源
   - [同时支持CocoaPods、Carthage、SPM的开源类库](#同时支持cocoapodscarthagespm的开源类库alexiscn)
-  - [Namecheap](#Namecheap)
+  - [Namecheap](#namecheap)
 - 自动化
   - [如何打造一个让人愉快的框架](#如何打造一个让人愉快的框架王巍-onevcat)
-  - [iOS 组件化开发（四）：fastlane实现pod自动化](#如何打造一个让人愉快的框架王巍-onevcat)
+  - [iOS 组件化开发（四）：fastlane实现pod自动化](#ios-组件化开发四fastlane实现pod自动化linxunfeng)
   - [一行命令发布 Pod 框架](#一行命令发布-pod-框架ripperhe)
 - UI 效果
-  - [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](#全新-iPhone-12-发布，再谈-iPhone-屏幕尺寸)
-  - [iOS 文本对齐，如何像素般精确还原设计稿](#iOS-文本对齐，如何像素般精确还原设计稿)
+  - [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](#全新-iphone-12-发布再谈-iphone-屏幕尺寸北极熊不不)
+  - [iOS 文本对齐，如何像素般精确还原设计稿](#ios-文本对齐如何像素般精确还原设计稿gao-jiji)
 - Swift
-  - [Rxswift教程](#Rxswift教程)
+  - [Rxswift教程](#rxswift教程lzc128)
 - 代码规范
-  - [All Acronyms](#All-Acronyms)
+  - [All Acronyms](#all-acronyms)
 
 ## 正文
 
