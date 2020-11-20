@@ -22,6 +22,15 @@
 
 > 以下内容的分类、顺序等全部内容均随时可能发生变化。
 
+- 依赖管理工具
+  - [Swift Package Manager 使用](#swift-package-manager-使用撬动代码的小秋)
+- 开源
+  - [同时支持CocoaPods、Carthage、SPM的开源类库](#同时支持cocoapodscarthagespm的开源类库alexiscn)
+- 自动化
+  - [如何打造一个让人愉快的框架](#如何打造一个让人愉快的框架王巍-onevcat)
+  - [iOS 组件化开发（四）：fastlane实现pod自动化](#如何打造一个让人愉快的框架王巍-onevcat)
+  - [一行命令发布 Pod 框架](#一行命令发布-pod-框架ripperhe)
+
 ### 依赖管理工具
 
 #### [Swift Package Manager 使用](https://juejin.cn/post/6871489791213436941#heading-26)：撬动代码的小秋
