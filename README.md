@@ -35,6 +35,8 @@
   - [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](#全新-iphone-12-发布再谈-iphone-屏幕尺寸北极熊不不)
   - [iOS 文本对齐，如何像素般精确还原设计稿](#ios-文本对齐如何像素般精确还原设计稿gao-jiji)
 - Swift
+  - [Unmanaged](#unmanaged)
+- iOS 第三方库
   - [Rxswift教程](#rxswift教程lzc128)
 - 代码规范
   - [All Acronyms](#all-acronyms)
@@ -83,6 +85,12 @@
 
 ### Swift
 
+#### [Unmanaged](#https://nshipster.cn/unmanaged/)：Nate Cook
+
+主要讲解 Swift 中，内存管理相关的内容，以及 `Unmanaged` 的使用。
+
+### iOS 第三方库
+
 #### [Rxswift教程](https://www.bilibili.com/video/BV1Hb411b7LD)：lzc128
 
 RxSwift 的**视频**教程，发布在 B站。
@@ -91,4 +99,4 @@ RxSwift 的**视频**教程，发布在 B站。
 
 #### [All Acronyms](https://www.allacronyms.com)
 
-输入一个单词，可以查找该单词的缩写。用来查变量名的时候可以使用。例如说输入 `Implement`，将返回 `impl`
+输入一个单词，可以查找该单词的缩写。用来查变量名的时候可以使用。例如说输入 `Implement`，将返回 `impl`。
