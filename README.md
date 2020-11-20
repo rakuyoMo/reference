@@ -35,6 +35,8 @@
   - [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](#全新-iPhone-12-发布，再谈-iPhone-屏幕尺寸)
 - Swift
   - [Rxswift教程](#Rxswift教程)
+- 代码规范
+  - [All Acronyms](#All-Acronyms)
 
 ## 正文
 
@@ -79,3 +81,9 @@
 #### [Rxswift教程](https://www.bilibili.com/video/BV1Hb411b7LD)：lzc128
 
 RxSwift 的**视频**教程，发布在 B站。
+
+### 代码规范
+
+#### [All Acronyms](https://www.allacronyms.com)
+
+输入一个单词，可以查找该单词的缩写。用来查变量名的时候可以使用。例如说输入 `Implement`，将返回 `impl`
