@@ -85,7 +85,7 @@
 
 ### Swift
 
-#### [Unmanaged](#https://nshipster.cn/unmanaged/)：Nate Cook
+#### [Unmanaged](https://nshipster.cn/unmanaged/)：Nate Cook
 
 主要讲解 Swift 中，内存管理相关的内容，以及 `Unmanaged` 的使用。
 
