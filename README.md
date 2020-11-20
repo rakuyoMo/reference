@@ -32,6 +32,8 @@
   - [一行命令发布 Pod 框架](#一行命令发布-pod-框架ripperhe)
 - 适配
   - [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](#全新-iPhone-12-发布，再谈-iPhone-屏幕尺寸)
+- Swift
+  - [Rxswift教程](#Rxswift教程)
 
 ## 正文
 
@@ -66,3 +68,9 @@
 #### [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](https://sspai.com/post/63214)：北极熊不不
 
 详细列举了 iPhone 12 系列的屏幕变化，同时还包括了一些细节、以及适配相关的内容。例如该篇文章中还谈到了状态栏高度的改变。
+
+### Swift
+
+#### [Rxswift教程](https://www.bilibili.com/video/BV1Hb411b7LD)：lzc128
+
+RxSwift 的视频教程，发布在 B站。
