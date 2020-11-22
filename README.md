@@ -27,6 +27,7 @@
 - 开源
   - [同时支持CocoaPods、Carthage、SPM的开源类库](#同时支持cocoapodscarthagespm的开源类库alexiscn)
   - [Namecheap](#namecheap)
+  - [deepl](#deepl)
 - 自动化
   - [如何打造一个让人愉快的框架](#如何打造一个让人愉快的框架王巍-onevcat)
   - [iOS 组件化开发（四）：fastlane实现pod自动化](#ios-组件化开发四fastlane实现pod自动化linxunfeng)
@@ -58,6 +59,10 @@
 #### [Namecheap](https://www.namecheap.com/logo-maker/app/)
 
 免费的设计生成 logo 的网站。可以为开源库制作 logo （我所有的开源项目的 logo 都是用这个网站制作的。）
+
+#### [deepl](https://www.deepl.com/translator)
+
+一个翻译网站，有免费的 Mac 客户端。翻译结果比 Google 翻译要更好一些。
 
 ### 自动化
 
