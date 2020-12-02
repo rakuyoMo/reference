@@ -37,6 +37,7 @@
   - [iOS 文本对齐，如何像素般精确还原设计稿](#ios-文本对齐如何像素般精确还原设计稿gao-jiji)
 - Swift
   - [Unmanaged](#unmanagednate-cook)
+  - [iOS中的内存管理(ARC)-Swift](#ios中的内存管理arc-swift-ramsey)
 - iOS 第三方库
   - [Rxswift教程](#rxswift教程lzc128)
 - 代码规范
@@ -93,6 +94,21 @@
 #### [Unmanaged](https://nshipster.cn/unmanaged/)：Nate Cook
 
 主要讲解 Swift 中，内存管理相关的内容，以及 `Unmanaged` 的使用。
+
+#### [iOS中的内存管理(ARC)-Swift](https://seamusapple.github.io/2017/01/04/ARC-in-Swift/)：Ramsey
+
+文章主要的内容实际上是讲解如何解决 **循环引用** 问题。
+
+文章中总结到，对于类实例之间的循环强引用及解决方法有以下三种：
+
+- 两个类的属性的值都允许为 `nil`，并会潜在的产生循环强引用，使用弱引用 `weak` 来解决。
+- 两个类的属性的值，一个允许为 `nil`，另一个不允许为 `nil`，并会潜在的产生循环强引用，使用无主引用 `unowned` 来解决。
+- 两个类的属性都不允许为 `nil`，并会潜在的产生循环强引用，一个类使用无主引用 `unowned`，另一个使用隐式解析可选属性 (Implicitly Unwrapped Optionals)。
+
+而对于闭包，使用捕获列表来避免循环强引用时，有以下两个原则：
+
+- 当闭包和捕获的实例总是互相引用时并且总是同时销毁时，将闭包内的捕获定义为**无主引用**。
+- 当捕获引用有时可能会是 `nil` 时，将闭包内的捕获定义为**弱引用**。弱引用总是可选类型，并且当引用的实例被销毁后，弱引用的值会自动置为 `nil`。这使我们可以在闭包内检查它们是否存在。
 
 ### iOS 第三方库
 
