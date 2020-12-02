@@ -37,7 +37,7 @@
   - [iOS 文本对齐，如何像素般精确还原设计稿](#ios-文本对齐如何像素般精确还原设计稿gao-jiji)
 - Swift
   - [Unmanaged](#unmanagednate-cook)
-  - [iOS中的内存管理(ARC)-Swift](#ios中的内存管理arc-swift-ramsey)
+  - [iOS中的内存管理(ARC)-Swift](#ios中的内存管理arc-swiftramsey)
 - iOS 第三方库
   - [Rxswift教程](#rxswift教程lzc128)
 - 代码规范
