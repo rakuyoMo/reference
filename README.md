@@ -36,7 +36,7 @@
   - [全新 iPhone 12 发布，再谈 iPhone 屏幕尺寸](#全新-iphone-12-发布再谈-iphone-屏幕尺寸北极熊不不)
   - [iOS 文本对齐，如何像素般精确还原设计稿](#ios-文本对齐如何像素般精确还原设计稿gao-jiji)
 - Swift
-  - [Unmanaged](#unmanaged)
+  - [Unmanaged](#unmanagednate-cook)
 - iOS 第三方库
   - [Rxswift教程](#rxswift教程lzc128)
 - 代码规范
